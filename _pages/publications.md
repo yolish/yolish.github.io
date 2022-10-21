@@ -1,10 +1,9 @@
 ---
 layout: archive
-title: "Publications"
+title: "List of Publications"
 permalink: /publications/
 author_profile: true
 ---
-# List of Publications
 1. Liao, W., Ding, Y., **Shavit, Y.**, Huang, D., Ren, S., Guo, J., Feng, W. and Zhang, K. WT-MVSNet: Window-based Transformers for Multi-view Stereo. Accepted to NIPS2022 
 2. **Shavit, Y**. and Keller, Y. Camera Pose Auto-Encoders for Improving Pose Regression. Accepted to ECCV22.
 3. Shi, Y., Cai, J.X., **Shavit, Y**., Mu, T.J., Feng, W. and Zhang, K., 2022. ClusterGNN: Cluster-based Coarse-to-Fine Graph Neural Network for Efficient Feature Matching. In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (pp. 12517-12526)
