@@ -10,3 +10,5 @@ redirect_from:
 
 ## Yoli Shavit's Home Page
 Dr Yoli Shavit is a Principal Research Scientist Manager at Huawei Tel Aviv Research Center (TRC) and a Postdoctoral Researcher at Bar-Ilan University. Before joining Huawei, Yoli worked at Amazon and interned at Microsoft Research. She holds a PhD in Computer Science from the University of Cambridge, an MSc in Bioinformatics from Imperial College London and a BSc in Computer Science and in Life Science from Tel Aviv University. Yoli is the recipient of the Cambridge International Scholarship, and her thesis was nominated for the best thesis award in the UK. Her current research focuses on deep learning methods for camera localization and multi-view stereo, with recent publications in CVPR, ICCV, ECCV and NIPS.
+
+A full CV is available from [here](https://drive.google.com/file/d/1Kf4ODVDvnVW-85dD2f24Zq29j9xFQxYv/view?usp=sharing)
