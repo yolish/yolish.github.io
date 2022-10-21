@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: ""
-excerpt: "List of Publications"
+layout: archive
+title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
 ---
 1. Liao, W., Ding, Y., **Shavit, Y.**, Huang, D., Ren, S., Guo, J., Feng, W. and Zhang, K. WT-MVSNet: Window-based Transformers for Multi-view Stereo. Accepted to NIPS2022 
 2. **Shavit, Y**. and Keller, Y. Camera Pose Auto-Encoders for Improving Pose Regression. Accepted to ECCV22.
